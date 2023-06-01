@@ -5,4 +5,5 @@ Template project repository for DSCI-100
 - Andy Hu
 - Dylan Zhang
 - Sharon Tu
-- Renz Tguyen
+- Renz Tingson
+
